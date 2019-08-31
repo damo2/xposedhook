@@ -35,7 +35,7 @@ xposed 可以在不修改APK的情况下影响程序运行(修改系统)的框�
 
 - 4.4.4以下版本手机
 
-[下载 Xposed-Installer]("https://github.com/damo2/xposedhook/blob/master/testapk/de.robv.android.xposed.installer_v33_36570c.apk ") 安装。然后执行上面第三步。
+[下载 Xposed-Installer](https://github.com/damo2/xposedhook/blob/master/testapk/de.robv.android.xposed.installer_v33_36570c.apk) 安装。然后执行上面第三步。
 
 
 
@@ -45,7 +45,7 @@ xposed 可以在不修改APK的情况下影响程序运行(修改系统)的框�
 
 ##### 编写 hook 。
 
-[github地址]: “https://github.com/damo2/xposedhook”
+[github地址](https://github.com/damo2/xposedhook)
 
 
 
