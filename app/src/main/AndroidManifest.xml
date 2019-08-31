@@ -9,12 +9,15 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true">
 
+        <!-- 1、标识自己是否为一个Xposed模块 -->
         <meta-data
                 android:name="xposedmodule"
                 android:value="true"/>
+        <!-- 2、Xposed模块的描述信息 -->
         <meta-data
                 android:name="xposeddescription"
                 android:value="hook例子"/>
+        <!-- 3、支持Xposed框架的最低版本 -->
         <meta-data
                 android:name="xposedminversion"
                 android:value="54"/>
