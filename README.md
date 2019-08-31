@@ -17,7 +17,7 @@ xposed 可以在不修改APK的情况下影响程序运行(修改系统)的框�
 
   ​	打开virtualXposed如下图所示：
 
-  ​	点击底下按钮可将手机中的app复制到 VirtualXposed 环境里面。
+  ​	点击底下按钮选择添加应用可将手机中的app复制到 VirtualXposed 环境里面。
 
   ​	上滑可看到安装到 VirtualXposed 里的程序。
 
@@ -45,7 +45,6 @@ xposed 可以在不修改APK的情况下影响程序运行(修改系统)的框�
 
 ##### 编写 hook 。
 
-[github地址](https://github.com/damo2/xposedhook)
 
 
 
@@ -162,3 +161,4 @@ class MainActivity : AppCompatActivity() {
 
 5. 打包安装，启动模块，重启。
 
+       hook例子 [github地址](https://github.com/damo2/xposedhook)
